@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'eus-nasa-prod-cust-appservice'
         slot-name: 'prod2'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6f5163d29d19472bbc077819553f0ae7 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a62c54400b994906a44eb7fbad691d86 }}
         package: .
